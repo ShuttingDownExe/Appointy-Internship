@@ -56,4 +56,4 @@ In this project I was able to accomplish the following:
 
 ## Challenges Faced:
 
-I haved faced several challenges while working on this project. The biggest challenge being the time available. I am a complete beginner in GoLang and web development as I am only in 5th semester, and trying to implement the above ideas proved more challenging then initially thought. Given more time 
+I haved faced several challenges while working on this project. The biggest challenge being the time available. I am a complete beginner in GoLang and web development as I am only in 5th semester, and trying to implement the above ideas proved more challenging then initially thought. Given more time I will be able to complete the task successfully
